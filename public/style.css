@@ -1,5 +1,9 @@
 body { 
-  background-color: #FF7940 
+  background-color: #36454F
+}
+
+.page-header{
+  background-color: #F0F0F0
 }
 
 #wrapper {
